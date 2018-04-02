@@ -21,3 +21,6 @@ for (var i = 0; i < hacker1.length; i++){
 
 }
  console.log(result.toUpperCase());
+
+ console.log
+ 
